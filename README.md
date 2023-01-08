@@ -1,5 +1,12 @@
 # Car-and-Truck-classification
 ![alt text](https://cdn.analyticsvidhya.com/wp-content/uploads/2018/12/Screenshot-from-2018-11-29-13-03-17.png)
+## Contents
+1. Introduction
+2. SIFT
+3. Faster RCNN
+4. YOLOv4
+5. Results
+
 ## Introduction
 This repsitory shows different techniques to identify cars and trucks, namely: SIFT, FRCNN, YOLOv4 and Retinanet. SIFT is the only classical method and the only method that uses classification while the rest are object detection algorithms.  
 
