@@ -19,3 +19,5 @@ YOLO is an abbreviation for the term ‘You Only Look Once’. This is an algori
 
 There are four major components of a RetinaNet model architecture:
 a) Bottom-up Pathway - The backbone network (e.g. ResNet) which calculates the feature maps at different scales, irrespective of the input image size or the backbone. b) Top-down pathway and Lateral connections - The top down pathway up samples the spatially coarser feature maps from higher pyramid levels, and the lateral connections merge the top-down layers and the bottom-up layers with the same spatial size. c) Classification sub-network - It predicts the probability of an object being present at each spatial location for each anchor box and object class. d) Regression sub-network - It regresses the offset for the bounding boxes from the anchor boxes for each ground-truth object.
+## Results
+![alt text](https://github.com/Vram97/Car-and-Truck-classification/blob/main/results.png)
